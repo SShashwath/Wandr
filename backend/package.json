@@ -1,5 +1,5 @@
 {
-  "name": "trip-tracker-server",
+  "name": "backend",
   "version": "1.0.0",
   "description": "NATPAC Trip Tracker Backend",
   "main": "index.js",
