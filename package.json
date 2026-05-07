@@ -12,6 +12,7 @@
     "install:all": "npm install"
   },
   "devDependencies": {
-    "concurrently": "^9.2.1"
+    "concurrently": "^9.2.1",
+    "rollup": "^4.60.3"
   }
 }
